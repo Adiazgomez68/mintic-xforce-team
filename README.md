@@ -24,7 +24,7 @@ Busco con el curso de MinTIC profundizar en mis conocimientos de programación.
 
 5. **Jose L. Medina C.**:
 Solo puedo decir, como en el relato de Sergio que hace el grande Greiff:
-<p>"Juego mi vida, cambio mi vida.
+"Juego mi vida, cambio mi vida.
 De todos modos
 la llevo perdida...
 
@@ -62,4 +62,6 @@ almaceno en mis odres...!
 
 Juego mi vida, cambio mi vida.
 De todos modos
-la llevo perdida..." </p>
+la llevo perdida..."
+
+### Link app web: https://xforce-frontend.herokuapp.com/home
